@@ -1,3 +1,7 @@
+
+
+
+
 *{
     padding: 0;
     margin: 0;
@@ -1189,16 +1193,11 @@ span{
      
 
 
-    
     .point{
         position: fixed;
-        top: 1121px;
+        top: 1127px;
         right: 261px;
         font-size: 27px;
-       
-        
-    }
-
        
         
     }
