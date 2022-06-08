@@ -1,7 +1,3 @@
-
-
-
-
 *{
     padding: 0;
     margin: 0;
@@ -262,6 +258,38 @@ span{
     border-radius: 50%;
     margin-top: 15px;
 }
+
+
+.image{
+    height:375px;
+    width: 375px;
+    border: 3px solid #2ecc71;
+    border-radius: 51%;
+    margin-left: -7px;
+    margin-top: 51px;
+}
+
+ .about-div .image h1{
+     display: block;
+    text-align: center;
+    color: #eee;
+    padding-top: 21px;
+    font-size: 39px;
+    display: block;
+    
+}
+
+.about-div .image i{
+    display: block;
+    padding-left: 161px;
+    padding-top: 27px;
+    color: red;
+    font-size: 55px;
+    
+}
+
+
+
 
 
 .about-div{
@@ -731,13 +759,13 @@ span{
         display: none;
     }
 
-    .about-div .image i{
+    /*.about-div .image i{
         display: none;
     }
 
     .about-div .image h1{
         display: none;
-    }
+    }*/
 }
 
 
